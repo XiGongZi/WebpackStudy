@@ -1,0 +1,21 @@
+{
+    "data":[{
+        "id":"0",
+        "name":"jack",
+        "gender":"man",
+        "age":"18"
+    },
+    {
+        "id":"1",
+        "name":"tom",
+        "gender":"man",
+        "age":"19"
+    },
+    {
+        "id":"2",
+        "name":"joy",
+        "gender":"woman",
+        "age":"17"
+    }
+]
+}
